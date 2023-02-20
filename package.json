@@ -68,7 +68,7 @@
     "cordova-windows"
   ],
   "license": "MIT",
-  "name": "cordova-plugin-x-socialsharing",
+  "name": "@eltok/cordova-plugin-x-socialsharing",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin.git"
